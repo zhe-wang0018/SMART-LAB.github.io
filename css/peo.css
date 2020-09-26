@@ -62,7 +62,7 @@ li.m-people-item-large img {
 }
 
 li.m-people-item-large .card {
-    /*height: 350px;*/
+    height: 375px;
     overflow: auto;
     margin: auto;
 }
