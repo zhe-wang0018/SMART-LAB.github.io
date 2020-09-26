@@ -79,7 +79,7 @@ h4 {
     white-space: nowrap;
     letter-spacing: 0.4em;
 
-    color: rgba(200，200，200，1);
+    color: rgba(164，16，52，1);
 }
 
 #h-description
@@ -141,7 +141,7 @@ div#footer
 
     /*background-color: #ededed;*/
     /*border-top: 1px solid #eee;*/
-    background-color: rgba(86, 88, 95, 0.97);
+    background-color: rgba(164, 16, 52, 0.97);
 }
 
 
