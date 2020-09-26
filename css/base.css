@@ -64,7 +64,7 @@ h4 {
 #nav
 {
     padding-left: 30px;
-    background-color: rgba(200, 200, 90, 0.8);
+    background-color: rgba(164, 12, 52, 0.5);
 }
 
 #h-title
@@ -113,7 +113,7 @@ a.nav-link.active
 {
     cursor: default;
 
-    color: #b1d100;
+    color: #FFF143;
     border-bottom: 2px solid #b1d100;
 }
 
