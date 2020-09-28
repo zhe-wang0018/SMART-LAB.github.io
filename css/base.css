@@ -106,15 +106,15 @@ a.nav-link
 
 a.nav-link:hover
 {
-    color: #FFF143;
+    color: #A41034;
 }
 
 a.nav-link.active
 {
     cursor: default;
 
-    color: #FFF143;
-    border-bottom: 2px solid #FFF143;
+    color: #A41034;
+    border-bottom: 4px solid #A41034;
 }
 
 /* SECTION */
